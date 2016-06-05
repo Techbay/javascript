@@ -336,6 +336,8 @@ Other Style Guides
     // good
     someStack.push('abracadabra');
     ```
+这里push有什么特别好处？
+
 
   <a name="es6-array-spreads"></a><a name="4.3"></a>
   - [4.3](#es6-array-spreads) **Use array spreads `...` to copy arrays.**
