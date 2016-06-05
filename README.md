@@ -1854,7 +1854,7 @@ Other Style Guides
     function test() {
       console.log('test');
     }
-
+空格
     // bad
     dog.set('attr',{
       age: '1 year',
