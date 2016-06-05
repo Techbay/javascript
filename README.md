@@ -602,6 +602,7 @@ Other Style Guides
 
   <a name="functions--in-blocks"></a><a name="7.3"></a>
   - [7.3](#functions--in-blocks) Never declare a function in a non-function block (if, while, etc). Assign the function to a variable instead. Browsers will allow you to do it, but they all interpret it differently, which is bad news bears. eslint: [`no-loop-func`](http://eslint.org/docs/rules/no-loop-func.html)
+  有意思，怎么记不住这个
 
   <a name="functions--note-on-blocks"></a><a name="7.4"></a>
   - [7.4](#functions--note-on-blocks) **Note:** ECMA-262 defines a `block` as a list of statements. A function declaration is not a statement. [Read ECMA-262's note on this issue](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf#page=97).
@@ -622,6 +623,8 @@ Other Style Guides
       };
     }
     ```
+    
+    这个有看到了，什么时候怎么用？
 
   <a name="functions--arguments-shadow"></a><a name="7.5"></a>
   - [7.5](#functions--arguments-shadow) Never name a parameter `arguments`. This will take precedence over the `arguments` object that is given to every function scope.
