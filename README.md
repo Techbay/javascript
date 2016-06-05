@@ -1294,7 +1294,7 @@ Other Style Guides
     // good
     const isJedi = luke.jedi;
     ```
-
+什么好处
   <a name="properties--bracket"></a><a name="12.2"></a>
   - [12.2](#properties--bracket) Use bracket notation `[]` when accessing properties with a variable.
 
