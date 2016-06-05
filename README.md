@@ -746,7 +746,7 @@ Other Style Guides
     const x = function () {};
     const y = function a() {};
     ```
-
+好吧
   <a name="functions--mutate-params"></a><a name="7.12"></a>
   - [7.12](#functions--mutate-params) Never mutate parameters. eslint: [`no-param-reassign`](http://eslint.org/docs/rules/no-param-reassign.html)
 
