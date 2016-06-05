@@ -1222,6 +1222,8 @@ Other Style Guides
     const sum = numbers.reduce((total, num) => total + num, 0);
     sum === 15;
     ```
+所以，就是两个专用方法forEach reduce
+
 
   <a name="generators--nope"></a><a name="11.2"></a>
   - [11.2](#generators--nope) Don't use generators for now.
