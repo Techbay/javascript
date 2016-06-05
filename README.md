@@ -2440,6 +2440,8 @@ Other Style Guides
       };
     }
     ```
+    不要保存this
+    
 
   <a name="naming--filename-matches-export"></a><a name="22.6"></a>
   - [22.6](#naming--filename-matches-export) **A base filename should exactly match the name of its default export.**
