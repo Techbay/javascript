@@ -597,6 +597,8 @@ Other Style Guides
       console.log('Welcome to the Internet. Please follow me.');
     }());
     ```
+    
+    这个括号要用
 
   <a name="functions--in-blocks"></a><a name="7.3"></a>
   - [7.3](#functions--in-blocks) Never declare a function in a non-function block (if, while, etc). Assign the function to a variable instead. Browsers will allow you to do it, but they all interpret it differently, which is bad news bears. eslint: [`no-loop-func`](http://eslint.org/docs/rules/no-loop-func.html)
